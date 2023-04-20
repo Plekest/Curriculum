@@ -624,9 +624,11 @@ body {
         display: flex;
         justify-content: space-between;
         list-style-type: none;
-        width: 30em;
+        width: 21em;
         font-family: 'Open Sans', sans-serif;
-        font-size: 230%;
+        font-size: 400%;
+        position: relative;
+        left: -6%;
     }
 
     .content .menu ul li a {
